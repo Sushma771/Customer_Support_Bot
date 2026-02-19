@@ -1,0 +1,3 @@
+faiss-cpu>=1.8.0        # fast vector search
+sentence-transformers>=2.6.1
+pypdf>=4.2.0
